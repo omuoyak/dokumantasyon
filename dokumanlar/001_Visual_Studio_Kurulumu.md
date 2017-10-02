@@ -52,7 +52,8 @@ yazarsınız.
 ## Visual Studio Code Nedir? Ne İşe Yarar?
 
 Visual Studio Code, Microsoft tarafından açık kaynak olarak geliştirilen yeni
-nesil bir betik düzenleme aracıdır.
+nesil bir betik ***(betik: Küçük işleri yapmak için kullanılan kod parçası 
+veya kod dosyası)*** düzenleme aracıdır.
 
 Çoklu platform desteği (Windows, Linux, OSX gibi farklı işletim sistemlerinde
 çalışabilmesi) , çok sayıda programlama dili ve özelliğe destek vermesi (Ruby,
