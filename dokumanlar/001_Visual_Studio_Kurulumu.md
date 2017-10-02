@@ -126,6 +126,6 @@ Aşağıdaki görselde izlenen adımları takip ederek kurulumu tamamlayınız.
 Tebrikler! Bilgisayarınıza Visual Studio Code metin düzenleme aracı
 başarıyla yüklendi.
 
-======
+-----
 
 Bu doküman [Serhat Celil İLERİ](http://serhatcileri.com) ( GitHub: [@ileri](https://github.com/ileri) ) tarafından oluşturulmuştur.
