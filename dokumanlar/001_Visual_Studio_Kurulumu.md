@@ -99,7 +99,7 @@ Veya aşağıdaki bağlantıya tıklayarak da aynı sayfaya ulaşabilirsiniz.
 
 Karşınıza aşağıdaki gibi bir sayfa çıkacaktır.
 
-![Visual Studio Code Resmi İnternet Sayfası](./images/vscode_kurulumu/sayfa_genel_gorunum.png)
+![Visual Studio Code Resmi İnternet Sayfası](./images/001_Visual_Studio_Kurulumu/sayfa_genel_gorunum.png)
 
 Bu sayfadaki "Download" yani "İndir" butonlarından birine tıklayarak
 Visual Studio Code kurulum dosyasını indirmeye başlayabilirsiniz.
@@ -121,7 +121,7 @@ Kurulum dosyasına çift tıklayarak kurulumu başlatabilirsiniz.
 
 Aşağıdaki görselde izlenen adımları takip ederek kurulumu tamamlayınız.
 
-![Visual Studio Code Kurulum Adımları](./images/vscode_kurulumu/vscode_kurulum.gif)
+![Visual Studio Code Kurulum Adımları](./images/001_Visual_Studio_Kurulumu/vscode_kurulum.gif)
 
 Tebrikler! Bilgisayarınıza Visual Studio Code metin düzenleme aracı
 başarıyla yüklendi.
