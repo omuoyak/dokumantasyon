@@ -19,7 +19,7 @@ Ruby dili nesneye yönelik, dinamik, reflektif bir programlama dilidir. Günüm�
 
 2. Büyük Kırmızı download butonuna basılır.
 
-![download1](./images/002_Ruby_Kurulumu_download1.JPG)
+![download1](./images/002_Ruby_Kurulumu/002_Ruby_Kurulumu_download1.JPG)
 
 3. Gelen ruby installer arasından en yenisi, kullanılan bilgisayarın mimarisine göre seçilir. Ve dosya indirilmeye başlar.
 > Eğer bilgisayarınız 64 bitse(x64), 32 bitse(x86) seçilir.
@@ -27,7 +27,7 @@ Ruby dili nesneye yönelik, dinamik, reflektif bir programlama dilidir. Günüm�
 4. Dosya indirildikten sonra İndirilenler (`"Downloads"`) dizininin altından çalıştırılabileceği gibi tarayıcınızdan 
 tıklayarak da çalıştırabilirsiniz.
 
-![download2](./images/002_Ruby_Kurulumu_download2.JPG)
+![download2](./images/002_Ruby_Kurulumu/002_Ruby_Kurulumu_download2.JPG)
 
 ## Ruby Kurmak
 
@@ -35,15 +35,15 @@ tıklayarak da çalıştırabilirsiniz.
 
 1-2. Lisans okunup kabul edildikten sonra `Next`'e basılır.
  
-![download1](./images/002_Ruby_Kurulumu_install1.JPG)
+![download1](./images/002_Ruby_Kurulumu/002_Ruby_Kurulumu_install1.JPG)
 
 3-4. Seçeneklerin hepsi işaretlenir ve `Install`'e tıklanır.
 
-![download1](./images/002_Ruby_Kurulumu_install2.JPG)
+![download1](./images/002_Ruby_Kurulumu/002_Ruby_Kurulumu_install2.JPG)
 
 5. Eğer `Run 'ridk install...` kutusu seçiliyse kapatılır ve `Finish`'e basılır.
 
-![download1](./images/002_Ruby_Kurulumu_install3.JPG)
+![download1](./images/002_Ruby_Kurulumu/002_Ruby_Kurulumu_install3.JPG)
 
 ## Ruby'i Visual Studio Code'da Test Etmek
 
@@ -55,8 +55,9 @@ Daha sonra sağtık yapıp bu dosyayı [Visual Studio Code](./001_Visual_Studio_
 puts "Merhaba Dünya!"
 ~~~
 
-Daha sonra `ctrl+shift+é` ye basarak powershell'in açılmasını sağlıyoruz. Alttan bir panel açılacaktır.
+Daha sonra `ctrl + shift + é` ye basarak powershell'in açılmasını sağlıyoruz. Alttan bir panel açılacaktır.
 Orda eğer seçili değilse `terminal`'i seçiyoruz.
+
 > Powershell, Windows için geliştirilmiş, arayüz (_pencere_) olmadan bilgisayara iş yaptırmamızı sağlayan bir araçtır. 
 > Bu ders süresince bizim için önemli olan verilen komutları çalıştırıyor olmasıdır.
 
@@ -72,7 +73,7 @@ yazarak komut çalıştıracağımız alanı Masaüstü olarak değiştiriyoruz.
 
 daha sonra 
 
-~~~bash
+~~~
 ruby ilk_program.rb
 ~~~
 yazarak programımızı çalıştırıyoruz.Program çıktısı şu şekilde görülecektir.
