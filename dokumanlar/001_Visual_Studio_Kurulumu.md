@@ -127,4 +127,4 @@ başarıyla yüklendi.
 
 ======
 
-Bu doküman [Serhat Celil İLERİ](http://serhatcileri.com) (GitHub: [@ileri](https://github.com/ileri) tarafından oluşturulmuştur.
+Bu doküman [Serhat Celil İLERİ](http://serhatcileri.com) ( GitHub: [@ileri](https://github.com/ileri) ) tarafından oluşturulmuştur.
