@@ -121,3 +121,10 @@ Kurulum dosyasına çift tıklayarak kurulumu başlatabilirsiniz.
 Aşağıdaki görselde izlenen adımları takip ederek kurulumu tamamlayınız.
 
 ![Visual Studio Code Kurulum Adımları](./images/vscode_kurulumu/vscode_kurulum.gif)
+
+Tebrikler! Bilgisayarınıza Visual Studio Code metin düzenleme aracı
+başarıyla yüklendi.
+
+======
+
+Bu doküman [Serhat Celil İLERİ](http://serhatcileri.com) (GitHub: [@ileri](https://github.com/ileri) tarafından oluşturulmuştur.
