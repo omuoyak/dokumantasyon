@@ -10,3 +10,5 @@ Güncel Dokümantasyon İçeriği:
 + [Kodlama Ortamı ve Visual Studio Code](./dokumanlar/001_Visual_Studio_Kurulumu.md)
 
 + [Windows için Ruby Kurulumu](./dokumanlar/002_Ruby_Kurulumu.md)
+
++ [Visual Studio Code Ruby Eklentisi Kurulumu](./dokumanlar/003_Visual_Studio_Ruby_Eklentisi_Kurulumu.md)
