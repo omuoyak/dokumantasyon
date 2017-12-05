@@ -621,6 +621,10 @@ File.mtime("isimler.txt")
 Bu fonksiyona ilk parametre olarak şu anki dosya adını, ikinci parametre
 olarak da yeni dosya adını verdiğimizde dosyayı yeniden isimlendirecektir.
 
+```ruby
+File.rename("isimler.txt", "derse_girenler.txt")
+```
+
 -----
 
 ### Dosya boyutu öğrenme
