@@ -12,3 +12,7 @@ Güncel Dokümantasyon İçeriği:
 + [Windows için Ruby Kurulumu](./002_Ruby_Kurulumu.md)
 
 + [Visual Studio Code Ruby Eklentisi Kurulumu](./003_Visual_Studio_Code_Ruby_Eklentisi_Kurulumu.md)
+
++ [Ruby'de Dosya İşlemleri](./004_Ruby_Dosya_Islemleri.md)
+
++ [Ruby'de Gem İşlemleri](./005_Ruby_Gem_Islemleri.md)
