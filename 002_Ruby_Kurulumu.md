@@ -87,4 +87,4 @@ bilgisayarınıza eksiksiz olarak kurulmuştur.
 
 -----
 
-Bu doküman Taha Yasir Kıroğlu ( GitHub: [@TahaYasirKiroglu](https://github.com/TahaYasirKiroglu) ) tarafından oluşturulmuştur.
+Bu doküman Taha Yasir Kıroğlu ( GitHub: [@taiak](https://github.com/taiak) ) tarafından oluşturulmuştur.
